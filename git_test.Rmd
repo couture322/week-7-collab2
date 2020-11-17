@@ -10,3 +10,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 welcome to the project! work below..
+
+Ok, what's the project about?
